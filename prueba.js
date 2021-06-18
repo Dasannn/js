@@ -1,10 +1,3 @@
-var cris = 50
-var javier = 61
+alert("holaa esto es una prueba")
 
-if (cris + javier === 110) {
-    alert ("puto")
-
-} else {
-    alert ("pendejito")
-}
 
