@@ -1,10 +1,7 @@
 alert("Bienvenido")
 
-var count = 1
-
-while (count = true) {
-    document.write("El que lea esto es furro")
-    console.log("count++")
+let i = 0;
+while (i < 3) { // muestra 0, luego 1, luego 2
+  document.write("el q lea esto es furro");
+  i++;
 }
-
-
