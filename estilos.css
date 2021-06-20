@@ -1,0 +1,46 @@
+#fondoPagina {
+    background-image: url(https://i.imgur.com/wd1f0mV.png);
+    margin:auto
+}
+
+p { 
+    font-family:sans-serif;
+    background: #B7B1B0;
+    color: rgb(0, 0, 0)
+}
+
+#titulop {
+    text-align: center;
+    background-image: url(https://i.imgur.com/wd1f0mV.png);
+    font-family: cursive;
+
+}
+
+nav {
+    background-image:url(https://i.imgur.com/wd1f0mV.png)
+}
+
+nav, article {
+    border: 3px solid black  
+}
+
+.agrupar {
+    width: 860px;
+    background-image: url(https://i.imgur.com/wd1f0mV.png);
+    margin:auto;
+    padding: 40px;
+    
+}
+
+article {
+    background-image: url(https://i.imgur.com/jyn9tzG.png);
+}
+
+#fotos {
+    background-image: url(https://i.imgur.com/wd1f0mV.png);
+}
+
+.menu {
+    background: #117862;
+    
+}
